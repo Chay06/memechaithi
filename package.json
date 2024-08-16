@@ -2,7 +2,7 @@
   "name": "meme-generator",
   "version": "0.1.0",
   "private": true,
-   "homepage": "",
+   "homepage": "https://chay06.github.io/memechaithi/",
   "dependencies": {
     "@svgr/plugin-svgo": "^8.1.0",
     "@svgr/webpack": "^8.1.0",
